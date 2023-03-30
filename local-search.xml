@@ -4,19 +4,50 @@
   
   
   <entry>
-    <title>我淦</title>
-    <link href="/2023/03/24/thirty-blog-build-remark/"/>
-    <url>/2023/03/24/thirty-blog-build-remark/</url>
+    <title>我的收藏</title>
+    <link href="/2023/03/30/%E6%88%91%E7%9A%84%E6%94%B6%E8%97%8F/"/>
+    <url>/2023/03/30/%E6%88%91%E7%9A%84%E6%94%B6%E8%97%8F/</url>
     
-    <content type="html"><![CDATA[]]></content>
+    <content type="html"><![CDATA[<h2 id="实用Blog合集"><a href="#实用Blog合集" class="headerlink" title="实用Blog合集"></a>实用Blog合集</h2><h3 id="杂项"><a href="#杂项" class="headerlink" title="杂项"></a>杂项</h3><ol><li><a href="https://my.oschina.net/u/5057806/blog/5602898">白嫖 GitHub Pages，轻松搭建个人博客</a></li></ol><h3 id="Net"><a href="#Net" class="headerlink" title=".Net"></a>.Net</h3><ol><li><a href="https://zhuanlan.zhihu.com/p/385035679">.NET Worker Service 作为 Windows 服务运行及优雅退出改进</a></li></ol>]]></content>
     
+    
+    <categories>
+      
+      <category>.NET</category>
+      
+    </categories>
     
     
     <tags>
       
-      <tag>hexo</tag>
+      <tag>收藏</tag>
       
-      <tag>fluid</tag>
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>bolg测试</title>
+    <link href="/2023/03/24/bolg%E6%B5%8B%E8%AF%95/"/>
+    <url>/2023/03/24/bolg%E6%B5%8B%E8%AF%95/</url>
+    
+    <content type="html"><![CDATA[<h3 id="Hello-World"><a href="#Hello-World" class="headerlink" title="Hello World!"></a>Hello World!</h3><figure class="highlight c#"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs c#">MessageBox.Show(<span class="hljs-string">&quot;Hello World!&quot;</span>);<br></code></pre></td></tr></table></figure>]]></content>
+    
+    
+    <categories>
+      
+      <category>.NET</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>测试</tag>
+      
+      <tag>我的博客</tag>
       
     </tags>
     
